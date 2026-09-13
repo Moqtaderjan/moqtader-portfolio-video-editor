@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 40" width="76" height="40" role="img" aria-labelledby="monoTitle">
+  <title id="monoTitle">Moqtader Hashimi monogram</title>
+  <g>
+    <!-- M -->
+    <g fill="#ece9e1">
+      <rect x="0" y="0" width="8" height="8"/>
+      <rect x="0" y="8" width="8" height="8"/>
+      <rect x="0" y="16" width="8" height="8"/>
+      <rect x="0" y="24" width="8" height="8"/>
+      <rect x="0" y="32" width="8" height="8"/>
+      <rect x="8" y="8" width="8" height="8"/>
+      <rect x="16" y="16" width="8" height="8"/>
+      <rect x="24" y="8" width="8" height="8"/>
+      <rect x="32" y="0" width="8" height="8"/>
+      <rect x="32" y="8" width="8" height="8"/>
+      <rect x="32" y="16" width="8" height="8"/>
+      <rect x="32" y="24" width="8" height="8"/>
+      <rect x="32" y="32" width="8" height="8"/>
+    </g>
+    <!-- Play icon -->
+    <g fill="#5b9dff">
+      <rect x="48" y="4" width="8" height="8"/>
+      <rect x="48" y="12" width="8" height="8"/>
+      <rect x="48" y="20" width="8" height="8"/>
+      <rect x="48" y="28" width="8" height="8"/>
+      <rect x="56" y="12" width="8" height="8"/>
+      <rect x="56" y="20" width="8" height="8"/>
+      <rect x="64" y="16" width="8" height="8"/>
+    </g>
+  </g>
+</svg>
