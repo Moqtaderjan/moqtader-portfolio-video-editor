@@ -177,7 +177,7 @@ const SITE_DATA = {
       role: "Long-form video editing",
       tools: "Editing, pacing, storytelling, and horizontal framing",
       poster: null,
-      videoSrc: "assets/videos/Life_Without Social_Media.mp4",
+      videoSrc: "assets/videos/Life_Without_Social_Media.mp4",
       captionsSrc: null,
       results: null,
     },
